@@ -1,2 +1,2 @@
-# Ash
-this is Ash program written in python language 
+# this is Ash code pf python
+print ("this is Ash python code")
